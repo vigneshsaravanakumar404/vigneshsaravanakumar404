@@ -16,8 +16,6 @@
 <article>
   <h1 align="center">Github Stats 🚀</h1>
     <br/>
-  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=MahitMehta&theme=discord&rank=A,AA,AAA,SECRET,S,SS,SSS,UNKNOWN&column=5" /></p>
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahitMehta&show_icons=true&theme=dark&locale=en" alt="Mahit's Github Stats" /></p>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshsaravanakumar404&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Mahit's Top Languages" /></p>
  
 </article>
