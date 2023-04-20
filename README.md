@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Saravanakumar</h1>
 <h3 align="center">Theoretical Computer Science Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshsaravanakumar404" alt="vigneshsaravanakumar404" /></a> </p>
-
 - 🌱 I’m currently exploring **Theoretically Computer Science**
 
 - 📫 How to reach me **10021913@sbstudents.org**
