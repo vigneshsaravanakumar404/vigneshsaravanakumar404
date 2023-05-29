@@ -1,13 +1,3 @@
-<h2 align="center">Hi 👋! I'm Vignesh from New Jersey</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <div align="center">
 <h2 align="center">Hi 👋! I'm Vignesh from New Jersey</h2>
 
