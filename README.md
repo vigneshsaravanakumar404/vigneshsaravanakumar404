@@ -1,6 +1,5 @@
-[<div align="center">
-<h2 align="center">Hi 👋! I'm Vignesh from New Jersey</h2>](https://github.com/vigneshsaravanakumar404/vigneshsaravanakumar404/blob/main/github-header-image.png)
 
+![Header](https://github.com/vigneshsaravanakumar404/vigneshsaravanakumar404/blob/main/github-header-image.png)
 ###
 
 <div align="center">
