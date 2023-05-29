@@ -66,5 +66,5 @@
 
 
 [comment]: <> (Chess game/chess.com profile)
-[comment]: <> (General Profile Information)
-[comment]: <> (Something else that is cool)
+[comment]: <> (Better Image)
+
