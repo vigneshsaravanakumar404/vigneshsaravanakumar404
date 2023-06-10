@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/vigneshsaravanakumar404/vigneshsaravanakumar404/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/vigneshsaravanakumar404/e5115d1775b94bd00f211ba5540b273347abf1b7/snake.svg" alt="Snake animation" />
 
 ###
 
