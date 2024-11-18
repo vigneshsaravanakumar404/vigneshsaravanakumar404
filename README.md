@@ -18,7 +18,11 @@
 
 
 ## 🛠️ Featured Projects
-
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 300px; text-align: center; background-color: #f9f9f9;">
+  <img src="image.jpg" alt="Card Image" style="width: 100%; height: auto; border-radius: 8px;">
+  <h3 style="margin-top: 10px;">Card Title</h3>
+  <p style="color: #555;">This is a description of the card.</p>
+</div>
 
 
 
