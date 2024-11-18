@@ -2,9 +2,9 @@
 
 <p align="left">I'm <strong>Vignesh</strong>, an undergraduate Computer Science student at Northeastern University. I'm passionate about:</p>
 
-🏆 Competitive Programming
-🤖 Artificial Intelligence
-♟️ Chess
+<li>🏆 Competitive Programming</li>
+<li>🤖 Artificial Intelligence</li>
+<li>♟️ Chess</li>
 
 <p align="left">In the past, I've led a robotics team, developed an application to manage data for my high school, and interned at a solar energy startup. I'm always eager to explore new technologies and build innovative solutions to real-world challenges!</p>
 
