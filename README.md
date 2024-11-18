@@ -1,6 +1,6 @@
 # Hey 👋 What’s Up?
 
-<p align="left">I'm <strong>Vignesh</strong>, an undergraduate Computer Science student at <a href="https://www.northeastern.edu/">Northeastern University</a>. I'm passionate about:</p>
+<p align="left">I'm <strong>Vignesh</strong>, an undergraduate Computer Science student at <a href="https://www.northeastern.edu/">Northeastern University</a>. I'm passionate about the field of Computer Science. Some of my interests and hobbies include:</p>
 
 
 - 🐍 Python
@@ -9,7 +9,7 @@
 - 🤖 Artificial Intelligence
 
 
-<p align="left">In the past, I've led a robotics team, developed an application to manage data for my high school, and interned at a solar energy startup. I'm always eager to explore new technologies and build innovative solutions to real-world challenges!</p>
+<p align="left">In the past, I've led a robotics team, developed an application to manage data for my high school, and interned at a solar energy startup. I'm always eager to explore new technologies and build innovative solutions to real-world challenges.</p>
 
 
 ## 💻 Languages & Technologies
