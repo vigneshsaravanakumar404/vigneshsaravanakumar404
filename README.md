@@ -94,6 +94,7 @@
       <div class="project-description">A brief description of your first project. It could be an app, website, or tool you built.</div>
       <a href="#" class="project-link">View Project</a>
     </div>
+
   </div>
 
   <h2>📩 Get in Touch</h2>
