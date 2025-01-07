@@ -1,5 +1,5 @@
 # Hey 👋 What’s Up?
-# [[Portfolio](https://portfolio-website-mu-peach.vercel.app/)](https://www.vigneshsaravanakumar.tech/)
+# [Portfolio](https://www.vigneshsaravanakumar.tech/)
 
 <p align="left">I'm <strong>Vignesh</strong>, an undergraduate Computer Science student at <a href="https://www.northeastern.edu/">Northeastern University</a>. I'm passionate about the field of Computer Science. Some of my interests and hobbies include:</p>
 
