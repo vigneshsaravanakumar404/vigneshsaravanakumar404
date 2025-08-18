@@ -26,37 +26,33 @@
 - ♟️ Avid **Bullet Chess** player on [Chess.com](https://www.chess.com/member/vigneshsaravanakumar)
 - 🚀 Always exploring new technologies and building innovative solutions
 
-## Achievements & Experience
+<h2 align="left">Focus & Experience</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<h2 align="left">🚀 Achievements & Experience</h2>
 
-#### 🎯 Current Focus
+## 🎯 Current Focus
 
-```bash
-$ cat current.focus
-> AI/ML Research
-> Full-Stack Development
-> Cloud Architecture
-> Competitive Programming
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### 💼 Experience
-
-```bash
-$ git log --oneline
-a4f2b3c SWE Intern @ Crossing
-7d8e9f0 SWE Intern @ Mermory
-3b5c6d1 Summer Analyst & Web Dev @ Simcore Partners
-1a2b3c4 Captain @ 758R
-```
-
-</td>
-</tr>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding-right: 10px;">
+      <pre style="background: #1e1e1e; color: #d4d4d4; padding: 12px; border-radius: 6px; font-family: 'Consolas', 'Monaco', monospace; overflow-x: auto;">
+<span style="color: #4EC9B0;">$</span> <span style="color: #9CDCFE;">cat</span> current.focus
+<span style="color: #CE9178;">&gt;</span> AI/ML Research
+<span style="color: #CE9178;">&gt;</span> Full-Stack Development
+<span style="color: #CE9178;">&gt;</span> Cloud Architecture
+<span style="color: #CE9178;">&gt;</span> Competitive Programming
+</pre>
+    </td>
+    <td width="50%" style="vertical-align: top; padding-left: 10px;">
+      <pre style="background: #1e1e1e; color: #d4d4d4; padding: 12px; border-radius: 6px; font-family: 'Consolas', 'Monaco', monospace; overflow-x: auto;">
+<span style="color: #4EC9B0;">$</span> <span style="color: #9CDCFE;">git</span> <span style="color: #C586C0;">log</span> <span style="color: #569CD6;">--oneline</span>
+<span style="color: #F1FA8C;">a4f2b3c</span> SWE Intern @ Crossing
+<span style="color: #F1FA8C;">7d8e9f0</span> SWE Intern @ Mermory
+<span style="color: #F1FA8C;">3b5c6d1</span> Summer Analyst & Web Dev @ Simcore Partners
+<span style="color: #F1FA8C;">1a2b3c4</span> Captain @ 758R
+</pre>
+    </td>
+  </tr>
 </table>
 
 <h2 align="left">Tech Stack</h2>
