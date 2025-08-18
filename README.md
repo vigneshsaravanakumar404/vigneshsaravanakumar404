@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="github-header-banner (2).png" alt="GitHub Header Banner" width="100%" />
-</p>
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;CS+%40+Northeastern;SWE+Intern+%40+Crossing;SWE+Intern+%40+Mermory;Summer+Analyst+%26+Web+Dev+%40+Simcore+Partners)](https://git.io/typing-svg)
@@ -30,7 +26,7 @@
 - ♟️ Avid **Bullet Chess** player on [Chess.com](https://www.chess.com/member/vigneshsaravanakumar)
 - 🚀 Always exploring new technologies and building innovative solutions
 
-<h2 align="left">Interests & Experience</h2>
+<h2 align="left">Focus & Experience</h2>
 
 <table>
 <tr>
@@ -56,7 +52,7 @@ $ git log --oneline
 a4f2b3c SWE Intern @ Crossing
 7d8e9f0 SWE Intern @ Mermory
 3b5c6d1 Summer Analyst & Web Dev @ Simcore Partners
-1a2b3c4 Captain @ 750R
+1a2b3c4 Captain @ 758R
 ```
 
 </td>
