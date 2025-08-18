@@ -2,64 +2,83 @@
     <img src="github-header-banner (2).png" alt="GitHub Header Banner" width="100%" />
 </p>
 
-<p align="left">I'm <strong>Vignesh</strong>, an undergraduate Computer Science student at <a href="https://www.northeastern.edu/">Northeastern University</a>. I'm passionate about the field of Computer Science. Some of my interests and hobbies include:</p>
-
-- 🐍 Python
-- 🏆 <a href="https://leetcode.com/u/vigneshsaravanakumar404/" target="_blank">Competitive Programming</a>
-- ♟️ <a href="https://www.chess.com/member/vigneshsaravanakumar" target="_blank">Bullet Chess</a>
-- 🤖 Artificial Intelligence
-
-<p align="left">In the past, I've led a robotics team, developed an application to manage data for my high school, and interned at a solar energy startup. I'm always eager to explore new technologies and build innovative solutions to real-world challenges.</p>
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="47" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="47" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="47" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="47" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="47" alt="nextjs logo"  />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;Computer+Science+Student;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  
 </div>
 
-###
+<br>
 
-<h2 align="left">Socials</h2>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=vigneshsaravanakumar404&color=10B981&style=flat-square&label=Profile+Views)](https://github.com/vigneshsaravanakumar404)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-00C853?style=flat-square&logo=leetcode&logoColor=white&labelColor=1F2937)](https://leetcode.com/u/vigneshsaravanakumar404/)
+  [![Chess.com](https://img.shields.io/badge/Chess.com-34D399?style=flat-square&logo=lichess&logoColor=white&labelColor=1F2937)](https://www.chess.com/member/vigneshsaravanakumar)
+  
+</div>
 
-###
+<br>
+
+## 🌿 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br>
+
+- 🎓 **Computer Science** undergraduate at [**Northeastern University**](https://www.northeastern.edu/)
+- 💡 Passionate about **AI**, **Machine Learning**, and **Software Development**
+- 🏆 Active **Competitive Programmer** on [LeetCode](https://leetcode.com/u/vigneshsaravanakumar404/)
+- ♟️ Avid **Bullet Chess** player on [Chess.com](https://www.chess.com/member/vigneshsaravanakumar)
+- 🚀 Always exploring new technologies and building innovative solutions
 
 <br clear="both">
 
+## 🚀 Achievements & Experience
+
+<div align="left">
+
+```python
+class Vignesh:
+    def __init__(self):
+        self.role = "CS Student & Developer"
+        self.location = "Northeastern University"
+        self.current_focus = ["AI/ML", "Full-Stack Development", "Cloud Computing"]
+
+    def achievements(self):
+        return [
+            "🤖 Led robotics team to regional championships",
+            "💻 Developed data management system for high school",
+            "☀️ Interned at solar energy startup",
+            "🎯 Solving algorithmic challenges daily"
+        ]
+```
+
+</div>
+
+## 💻 Tech Stack
+
 <div align="center">
-    <a href="https://www.linkedin.com/in/vigneshsaravanakumar" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:saravanakumar.vi@northeastern.edu">
-        <img src="https://img.shields.io/static/v1?message=Email&logo=maildotru&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="email logo"  />
-    </a>
-    <a href="https://www.chess.com/member/vigneshsaravanakumar" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Chess.com&logo=chess.com&label=&color=6A4C1B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="chess.com logo"  />
-    </a>
-    <a href="https://vigneshsaravanakumar.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Portfolio&logo=code&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio website logo"  />
-    </a>
+
+### 🔥 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=10B981)
+![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=10B981)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=10B981)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-1F2937?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F2937?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
 </div>
