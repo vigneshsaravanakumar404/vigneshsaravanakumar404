@@ -28,35 +28,37 @@
 
 <h2 align="left">Focus & Experience</h2>
 
-<table>
-<tr>
-<td width="50%">
+<h2 align="left">🚀 Achievements & Experience</h2>
 
-<h4>🎯 Current Focus</h4>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding-right: 10px;">
+      <h4>🎯 Current Focus</h4>
+      
+<pre style="background: #1e1e1e; color: #d4d4d4; padding: 12px; border-radius: 6px; font-family: 'Consolas', 'Monaco', monospace; overflow-x: auto;">
+<span style="color: #4EC9B0;">$</span> <span style="color: #9CDCFE;">cat</span> current.focus
+<span style="color: #CE9178;">&gt;</span> AI/ML Research                     
+<span style="color: #CE9178;">&gt;</span> Full-Stack Development              
+<span style="color: #CE9178;">&gt;</span> Cloud Architecture                  
+<span style="color: #CE9178;">&gt;</span> Competitive Programming             
+</pre>
 
-```terminal
-$ cat current.focus
-> AI/ML Research
-> Full-Stack Development
-> Cloud Architecture
-> Competitive Programming
-```
+    </td>
+    <td width="50%" style="vertical-align: top; padding-left: 10px;">
+      <h4>💼 Experience</h4>
 
-</td>
-<td width="50%">
 
-<h4>💼 Experience</h4>
+<pre style="background: #1e1e1e; color: #d4d4d4; padding: 12px; border-radius: 6px; font-family: 'Consolas', 'Monaco', monospace; overflow-x: auto;">
+<span style="color: #4EC9B0;">$</span> <span style="color: #9CDCFE;">git</span> <span style="color: #C586C0;">log</span> <span style="color: #569CD6;">--oneline</span>
+<span style="color: #F1FA8C;">a4f2b3c</span> SWE Intern @ Crossing
+<span style="color: #F1FA8C;">7d8e9f0</span> SWE Intern @ Mermory
+<span style="color: #F1FA8C;">3b5c6d1</span> Summer Analyst & Web Dev @ Simcore Partners
+<span style="color: #F1FA8C;">1a2b3c4</span> Captain @ 758R
+</pre>
 
-```terminal
-$ git log --oneline
-a4f2b3c SWE Intern @ Crossing
-7d8e9f0 SWE Intern @ Mermory
-3b5c6d1 Summer Analyst & Web Dev @ Simcore Partners
-1a2b3c4 Captain @ 758R
-```
+    </td>
 
-</td>
-</tr>
+  </tr>
 </table>
 
 <h2 align="left">Tech Stack</h2>
