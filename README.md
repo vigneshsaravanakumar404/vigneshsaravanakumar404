@@ -1,10 +1,10 @@
-<!-- <p align="center">
+<p align="center">
     <img src="github-header-banner (2).png" alt="GitHub Header Banner" width="100%" />
-</p> -->
+</p>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;Computer+Science+Student;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;CS+%40+Northeastern;SWE+Intern+%40+Crossing;SWE+Intern+%40+Mermory;Summer+Analyst+%26+Web+Dev+%40+Simcore+Partners)](https://git.io/typing-svg)
   
 </div>
 
@@ -19,12 +19,10 @@
   [![Chess.com](https://img.shields.io/badge/Chess.com-00A82D?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/vigneshsaravanakumar)
   
 </div>
-  
-</div>
 
 <br>
 
-## 👨‍💻 About Me
+<h2 align="left">👨‍💻 About Me</h2>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -36,13 +34,13 @@
 
 <br clear="both">
 
-## 🚀 Achievements & Experience
+<h2 align="left">🚀 Achievements & Experience</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎯 Current Focus
+<h4>🎯 Current Focus</h4>
 
 ```terminal
 $ cat current.focus
@@ -55,7 +53,7 @@ $ cat current.focus
 </td>
 <td width="50%">
 
-#### 💼 Experience
+<h4>💼 Experience</h4>
 
 ```terminal
 $ git log --oneline
@@ -69,7 +67,7 @@ a4f2b3c Interned at solar energy startup
 </tr>
 </table>
 
-## 💻 Tech Stack
+<h2 align="left">💻 Tech Stack</h2>
 
 <div align="center">
 
@@ -85,5 +83,3 @@ a4f2b3c Interned at solar energy startup
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
