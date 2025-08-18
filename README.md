@@ -22,9 +22,7 @@
 
 <br>
 
-<h2 align="left">👨‍💻 About Me</h2>
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<h2 align="left">About Me</h2>
 
 - 🎓 **Computer Science** undergraduate at [**Northeastern University**](https://www.northeastern.edu/)
 - 💻 Passionate about **AI**, **Machine Learning**, and **Software Development**
@@ -32,9 +30,7 @@
 - ♟️ Avid **Bullet Chess** player on [Chess.com](https://www.chess.com/member/vigneshsaravanakumar)
 - 🚀 Always exploring new technologies and building innovative solutions
 
-<br clear="both">
-
-<h2 align="left">🚀 Achievements & Experience</h2>
+<h2 align="left">Interests & Experience</h2>
 
 <table>
 <tr>
@@ -57,17 +53,17 @@ $ cat current.focus
 
 ```terminal
 $ git log --oneline
-a4f2b3c Interned at solar energy startup
-7d8e9f0 Developed school data management system
-3b5c6d1 Led robotics team to championships
-1a2b3c4 Started CS journey at Northeastern
+a4f2b3c SWE Intern @ Crossing
+7d8e9f0 SWE Intern @ Mermory
+3b5c6d1 Summer Analyst & Web Dev @ Simcore Partners
+1a2b3c4 Captain @ 750R
 ```
 
 </td>
 </tr>
 </table>
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="center">
 
@@ -83,3 +79,5 @@ a4f2b3c Interned at solar energy startup
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
