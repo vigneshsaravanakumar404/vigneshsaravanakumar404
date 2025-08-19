@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Terminal View
+## 🖥️ Command Center
 
 <div align="center">
 
@@ -35,23 +35,46 @@
 <tr>
 <td width="50%">
 
+### 📌 Current Status
+
 ```bash
-vignesh@northeastern:~$ cat current.focus
-> AI/ML Research
-> Full-Stack Development
-> Cloud Architecture
-> Competitive Programming
+vignesh@northeastern:~$ neofetch
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Focus Areas
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ AI/ML Research 🤖
+→ Full-Stack Development 🌐
+→ Cloud Architecture ☁️
+→ Competitive Programming 🏆
+→ Open Source Contributing 🌟
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Status: Grinding 💪
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
 <td width="50%">
 
+### 📂 Experience Log
+
 ```bash
-vignesh@northeastern:~$ git log --oneline
-a4f2b3c [2024] SWE Intern @ Crossing
-7d8e9f0 [2024] SWE Intern @ Mermory
-3b5c6d1 [2023] Summer Analyst @ Simcore
-1a2b3c4 [2022] Captain @ 750R
+vignesh@northeastern:~$ ls -la experience/
+total 4
+drwxr-xr-x  vignesh  2024  Crossing/
+├── role: SWE Intern
+└── status: current ✅
+
+drwxr-xr-x  vignesh  2024  Mermory/
+├── role: SWE Intern
+└── learned: AI/ML 🧠
+
+drwxr-xr-x  vignesh  2023  Simcore/
+├── role: Summer Analyst
+└── built: Trading Tools 📊
+
+drwxr-xr-x  vignesh  2022  750R/
+├── role: Team Captain
+└── achievement: Worlds 🏆
 ```
 
 </td>
@@ -60,9 +83,9 @@ a4f2b3c [2024] SWE Intern @ Crossing
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 
 <div align="center">
 
