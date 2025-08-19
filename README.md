@@ -2,7 +2,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;CS+%40+Northeastern+University;SWE+Intern+%40+Crossing;Building+cool+stuff+with+AI+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Chess+Enthusiast+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshsaravanakumar)
   [![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vigneshsaravanakumar.com)
@@ -14,8 +13,6 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 About Me
 
 - 🎓 **Computer Science** undergraduate at [**Northeastern University**](https://www.northeastern.edu/)
@@ -24,8 +21,6 @@
 - ♟️ Avid **Bullet Chess** player on [Chess.com](https://www.chess.com/member/vigneshsaravanakumar)
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖥️ Command Center
 
@@ -121,5 +116,3 @@ drwxr-xr-x  vignesh  2022  750R/
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
