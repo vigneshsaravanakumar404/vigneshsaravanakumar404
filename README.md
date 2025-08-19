@@ -28,10 +28,6 @@
 
 <h2 align="left">Focus & Experience</h2>
 
-<h2 align="left">🚀 Achievements & Experience</h2>
-
-## 🎯 Current Focus
-
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="50%" style="vertical-align: top; padding-right: 10px;">
