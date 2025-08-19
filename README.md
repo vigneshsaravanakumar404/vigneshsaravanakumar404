@@ -26,10 +26,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📌 Current Status
 
 ```bash
@@ -46,9 +42,6 @@ vignesh@northeastern:~$ neofetch
     Status: Grinding 💪
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-</td>
-<td width="50%">
 
 ### 📂 Experience Log
 
@@ -71,10 +64,6 @@ drwxr-xr-x  vignesh  2022  750R/
 ├── role: Team Captain
 └── achievement: Worlds 🏆
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
