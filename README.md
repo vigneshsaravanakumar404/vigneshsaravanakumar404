@@ -37,7 +37,7 @@
 
 ## 📚 Relevant Coursework
 
-[`Data Structures & Algorithms`](https://github.com/yourusername/CS2510) • [`Machine Learning`](https://github.com/yourusername/DS3000) • [`Discrete Mathematics`](https://github.com/yourusername/CS1800) • [`Web Development`](https://github.com/yourusername/CS4550) • [`Database Design`](https://github.com/yourusername/CS3200) • [`Computer Systems`](https://github.com/yourusername/CS3650) • [`Object-Oriented Design`](https://github.com/yourusername/CS3500) • [`Linear Algebra`](https://github.com/yourusername/MATH2331)
+[`Fundamentals of Computer Science 1`](https://github.com/vigneshsaravanakumar404/CS-2500-Fundamentals-of-Computer-Science-1) • [`Fundamentals of Computer Science 2`](https://github.com/vigneshsaravanakumar404/CS-2510-Fundamentals-of-Computer-Science-2)
 
 ## 🚀 Projects
 
