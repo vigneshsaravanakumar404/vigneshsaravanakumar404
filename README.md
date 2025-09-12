@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;CS+%40+Northeastern+University;SWE+Intern+%40+Crossing;Building+cool+stuff+with+AI+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%92%BB;Chess+Enthusiast+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Vignesh+%F0%9F%91%8B;CS+%40+Northeastern+University;SWE+Intern+%40+Crossing;Competitive+Programmer+%F0%9F%92%BB;Chess+Enthusiast+%E2%99%9F%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vigneshsaravanakumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
