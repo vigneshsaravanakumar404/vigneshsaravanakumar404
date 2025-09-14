@@ -17,7 +17,7 @@
 - ♟️ <a href="https://www.chess.com/member/vigneshsaravanakumar" target="_blank">Bullet Chess</a>
 - 🤖 Artificial Intelligence
 
-<p align="left">In the past, I've led a robotics team, developed an application to manage data for my high school, and interned at a solar energy startup. I'm always eager to explore new technologies and build innovative solutions to real-world challenges.</p>
+<p align="left">In the past, I've led a robotics team, held software engineering roles in startups across the solar energy, ed-tech and legal sectors. I'm eager to contribute to software that makes a makes an impact</p>
 
 ## 💻 Languages & Technologies
 
