@@ -41,7 +41,7 @@
 
 ## 📚 Relevant Coursework
 
-[`Fundamentals of Computer Science 1`](https://github.com/vigneshsaravanakumar404/CS-2500-Fundamentals-of-Computer-Science-1) • [`Fundamentals of Computer Science 2`](https://github.com/vigneshsaravanakumar404/CS-2510-Fundamentals-of-Computer-Science-2)
+[`Fundamentals of Computer Science 1`](https://github.com/vigneshsaravanakumar404/CS-2500-Fundamentals-of-Computer-Science-1) • [`Fundamentals of Computer Science 2`](https://github.com/vigneshsaravanakumar404/CS-2510-Fundamentals-of-Computer-Science-2) • [`Computer Design Architecture`](https://github.com/vigneshsaravanakumar404/EECE-2310-Computer-Design-Architecture) • [`Algorithms & Data`](https://github.com/vigneshsaravanakumar404/CS-3000-Algorithms-Data) • [`DS 3000`](https://github.com/vigneshsaravanakumar404/DS-3000)
 
 ## 🚀 Projects
 
