@@ -40,7 +40,7 @@
 </div>
 
 ## 📚 Relevant Coursework
-[`Algorithms & Data`](https://github.com/vigneshsaravanakumar404/CS-3000-Algorithms-Data) • [`Computer Design Architecture`](https://github.com/vigneshsaravanakumar404/EECE-2310-Computer-Design-Architecture) • [`Foundations of Data Science`](https://github.com/vigneshsaravanakumar404/DS-3000) • [`Program Design & Implementation 2`](https://github.com/vigneshsaravanakumar404/CS-3100-Program-Design-and-Implementation-2) • [`Fundamentals of Computer Science 2`](https://github.com/vigneshsaravanakumar404/CS-2510-Fundamentals-of-Computer-Science-2) • [`Fundamentals of Computer Science 1`](https://github.com/vigneshsaravanakumar404/CS-2500-Fundamentals-of-Computer-Science-1)
+[`Algorithms & Data`](https://github.com/vigneshsaravanakumar404/CS-3000-Algorithms-Data) • [`Computer Design Architecture`](https://github.com/vigneshsaravanakumar404/EECE-2310-Computer-Design-Architecture) • [`Foundations of Data Science`](https://github.com/vigneshsaravanakumar404/DS-3000) • [`Fundamentals of Computer Science 3`](https://github.com/vigneshsaravanakumar404/CS-3100-Program-Design-and-Implementation-2) • [`Fundamentals of Computer Science 2`](https://github.com/vigneshsaravanakumar404/CS-2510-Fundamentals-of-Computer-Science-2) • [`Fundamentals of Computer Science 1`](https://github.com/vigneshsaravanakumar404/CS-2500-Fundamentals-of-Computer-Science-1)
 
 ## 🚀 Projects
 
